@@ -1,0 +1,30 @@
+
+  body {
+    background-color: #EAF6F6;
+  }
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+  }
+  h1{
+    color:#66BFBF;
+  }
+  h3{
+    color:#66BFBF;
+  }
+  a:hover {
+    background-color: yellow;
+  }
+  /***************CLASS SELECTOR*****************/
+
+.circular {
+  border-radius: 100%;
+}
+
+/****************ID SELECTORS*******************/
+
+#emailaddress {
+  color:blue;
+}
